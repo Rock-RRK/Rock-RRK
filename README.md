@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - I am updating this file in another branch.
+- Updated in local.
 
 <!---
 Rock-RRK/Rock-RRK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
